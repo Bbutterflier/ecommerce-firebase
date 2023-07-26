@@ -176,7 +176,7 @@ const SignIn: React.FC = () => {
               initial={{ y: -20, opacity: 0 }}
               animate={{ y: 0, opacity: 1 }}
             >
-              <Input name='name' onChange={handleChange} required placeholder='Mostafa Kheibary' />
+              <Input name='name' onChange={handleChange} required placeholder='Blackbutterflier' />
               <Button type='submit'>submit</Button>
             </motion.form>
           )}

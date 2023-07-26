@@ -1,6 +1,7 @@
 .shop {
   width: 100%;
   min-height: calc(100vh - 31.6rem);
+  background-color: #e2edf7;
 }
 .shop__head {
   display: flex;

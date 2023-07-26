@@ -11,8 +11,8 @@ const Footer: FC = () => {
       <div className='sub-footer'>
         <span className='footer__copyright'>
           Copyright 2022{' '}
-          <a className='footer__link' href='https://github.com/mostafa-kheibary' target='_blank'>
-            Mostafa Kheibary
+          <a className='footer__link' href='https://github.com/Bbutterflier' target='_blank'>
+            Blackbutterfly
           </a>
         </span>
       </div>

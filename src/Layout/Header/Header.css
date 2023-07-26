@@ -1,6 +1,6 @@
 .header-container {
   z-index: 1000;
-  background-color: white;
+  background-color: rgba(87, 160, 255, 0.192);
   position: fixed;
   top: 0;
   left: 0;
